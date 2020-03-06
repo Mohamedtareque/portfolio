@@ -3,11 +3,18 @@
 ***
 ## Education
 
+***
+
 ## Experience
 
 
+***
+
 ## Projects
 
-
+****
 
 ## Awards
+
+
+****
