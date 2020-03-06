@@ -24,5 +24,5 @@ __Bertelsmann Tech Scholarship in AI (Udacity)__
 ****
 
 <div class="text-blue mb-2">
-  .text-blue on white
+  .text-blue on ewhite
 </div>
