@@ -5,7 +5,7 @@ ___
 
 ## Education
 __Bertelsmann Tech Scholarship in AI (Udacity)__                                                                  
-- Implement different Deep learning architectures with focus on end-to-end models Particularly image classification, Using Pytorch frame work.
+>Implement different Deep learning architectures with focus on end-to-end models Particularly image classification, Using Pytorch frame work.
 
 ***
 
@@ -22,7 +22,3 @@ __Bertelsmann Tech Scholarship in AI (Udacity)__
 
 
 ****
-
-<div class="text-blue mb-2">
-  .text-blue on ewhite
-</div>
