@@ -49,4 +49,4 @@ __Robotics and STEM trainer__
 ****
 
 ## Skills
->Computer - Solid works, some ROS, Python, MATLAB, C, JS, Open CV, Pytorch, Tensorflow, Lego digital designer, LEGO Studio, EV3 MindStorms, Scratch, Adobe XD(UI/UX), Embedded Systems, HTML, CSS, SQL, Unity).
+>Computer - Solid works, some ROS, Python, MATLAB, C, JS, Open CV, Pytorch, Tensorflow, Lego digital designer, LEGO Studio, EV3 MindStorms, Scratch, Adobe XD(UI/UX), Embedded Systems, HTML, CSS, SQL, Unity, Wedo2.0).
