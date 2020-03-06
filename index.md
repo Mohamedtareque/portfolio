@@ -43,8 +43,8 @@ __Robotics and STEM trainer__
 ****
 
 ## Awards
->4th place Mine sweeper competition.
->3rd place Mine Sweeper competition.
+>3rd place in Mine Sweeper competition.
+>4th place in Mine sweeper competition.
 
 ****
 
