@@ -4,9 +4,15 @@
 ___
 
 ## Education
-  __Bertelsmann Tech Scholarship in AI (Udacity)__                                                                  
-    >Implement different Deep learning architectures with focus on end-to-end models Particularly image classification, Using Pytorch frame work.
+__Bertelsmann Tech Scholarship in AI (Udacity).__                                                                  
+>Implement different Deep learning architectures with focus on end-to-end models Particularly image classification, Using Pytorch frame work.
 
+__Deep Learning Specialization (Coursera).__
+>Build deep neural networks and learn about CNN, RNN, LSTM, Adam, Droupout, BatchNorm and Xavier/He.
+
+__Faculty of engineering Zagazig university.__
+>B.S in Computer Systems with control, GPA 3/5.0.
+o Concentration in SW engineering (Embedded systems, AI).
 ***
 
 ## Experience
