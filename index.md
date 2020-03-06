@@ -35,11 +35,6 @@ __Robotics and STEM trainer__
 >President Codec team. 
 >Vice chairman IEEE RAS ZSC Chairman IEEE RAS ZSC
 
-## Projects
->Build LIN Protocol over UART(design LIN schedular)
->GP(Design and build semi driver assistant), CAN protocol communication sys. 
->Build lane detection and sign classifier car using open cv and deep learning.
-
 ****
 
 ## Awards
@@ -50,3 +45,10 @@ __Robotics and STEM trainer__
 
 ## Skills
 >Computer - Solid works, some ROS, Python, MATLAB, C, JS, Open CV, Pytorch, Tensorflow, Lego digital designer, LEGO Studio, EV3 MindStorms, Scratch, Adobe XD(UI/UX), Embedded Systems, HTML, CSS, SQL, Unity, Wedo2.0).
+
+___
+
+## Projects
+>Build LIN Protocol over UART(design LIN schedular)
+>GP(Design and build semi driver assistant), CAN protocol communication sys. 
+>Build lane detection and sign classifier car using open cv and deep learning.
