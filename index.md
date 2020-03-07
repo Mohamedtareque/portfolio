@@ -45,6 +45,6 @@ __Robotics and STEM trainer__
 ___
 
 ## Projects
->Build LIN Protocol over UART(design LIN schedular)
+>Build LIN Protocol over UART(design LIN schedular).
 >GP(Design and build semi driver assistant), CAN protocol communication sys. 
 >Build lane detection and sign classifier car using open cv and deep learning.
