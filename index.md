@@ -55,3 +55,4 @@ ___
 - [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [coursera](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 - [ ] Evolving a neural network with a genetic algorithm
 
+
